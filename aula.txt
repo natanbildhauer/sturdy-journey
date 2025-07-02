@@ -1,1 +1,4 @@
 Aprendendo o git e como usar ele e praticando
+
+
+fazendo alteração para incluir depois.
